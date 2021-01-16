@@ -1,3 +1,14 @@
+##
+
+I had never used React before, but wanted to try it for this challenge.  I spent around 6 hours total, including the time spent familarizing myself with the documentation.
+
+I used the Create React App.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
